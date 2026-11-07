@@ -1,0 +1,288 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Personal//Maldives Holidays//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Maldives Public Holidays
+X-WR-TIMEZONE:Indian/Maldives
+BEGIN:VEVENT
+UID:2026-01-01MV415regcountry@mv-holidays
+DTSTAMP:20261107T193853Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:New Year's Day
+DESCRIPTION:New Year's Day is a public holiday in all countries that observe the Gregorian calendar
+TRANSP:TRANSPARENT
+CATEGORIES:Holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-05MV3271regcountry@mv-holidays
+DTSTAMP:20261107T193853Z
+DTSTART;VALUE=DATE:20260205
+DTEND;VALUE=DATE:20260206
+SUMMARY:First Day of Parliament (Public Holiday)
+DESCRIPTION:The first parliament sitting of the year, will be a government holiday in the Maldives
+TRANSP:TRANSPARENT
+CATEGORIES:Holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-19MV701regcountry@mv-holidays
+DTSTAMP:20261107T193853Z
+DTSTART;VALUE=DATE:20260219
+DTEND;VALUE=DATE:20260220
+SUMMARY:First of Ramazan
+DESCRIPTION:Ramadan is the ninth month of the Muslim calendar. It is during this month that Muslims fast
+TRANSP:TRANSPARENT
+CATEGORIES:Holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-20MV271regcountry@mv-holidays
+DTSTAMP:20261107T193853Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:Eid-ul Fithr
+DESCRIPTION:The festival of Eid al-Fitr, the Festival of Fast breaking, marks the end of Ramadan
+TRANSP:TRANSPARENT
+CATEGORIES:Holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-01MV475regcountry@mv-holidays
+DTSTAMP:20261107T193853Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:Worker's Day
+DESCRIPTION:This holiday is most commonly associated as a commemoration of the achievements of the labour movement
+TRANSP:TRANSPARENT
+CATEGORIES:Holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-27MV27regcountry@mv-holidays
+DTSTAMP:20261107T193853Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+SUMMARY:Hajj Day
+DESCRIPTION:Second day of the Hajj pilgrimage and the day before Eid al Adha. Named after the geographical area Arafa where the Prophet gave his Farewell Sermon.
+TRANSP:TRANSPARENT
+CATEGORIES:Holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-28MV272regcountry@mv-holidays
+DTSTAMP:20261107T193853Z
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260529
+SUMMARY:Eid-ul Al'haa
+DESCRIPTION:Eid al-Adha, the Feast of Sacrifice is the most important feast in the Muslim calendar. It celebrates the willingness of the Prophet Ibrahim to sacrifice his son Ishmael in submission to Allah's command, before he was stopped by Allah.
+TRANSP:TRANSPARENT
+CATEGORIES:Holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-16MV420regcountry@mv-holidays
+DTSTAMP:20261107T193853Z
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260617
+SUMMARY:Islamic New Year
+DESCRIPTION:Marks Islamic New Year and the Prophet's journey from Mecca to Medina in 622AD.
+TRANSP:TRANSPARENT
+CATEGORIES:Holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-26MV524regcountry@mv-holidays
+DTSTAMP:20261107T193853Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:Independence Day
+DESCRIPTION:The Maldives gained independence from the British on July 26th 1965, following 77 years as a British protectorate
+TRANSP:TRANSPARENT
+CATEGORIES:Holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-15MV696regcountry@mv-holidays
+DTSTAMP:20261107T193853Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:Qaumee Dhuvas
+DESCRIPTION:Celebrates the victory of Muhammad Thakurufaanu Al Auzam over the Portuguese occupation in 1573
+TRANSP:TRANSPARENT
+CATEGORIES:Holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-25MV543regcountry@mv-holidays
+DTSTAMP:20261107T193853Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:Mawlid al-Nabi
+DESCRIPTION:Celebrated by Muslims on the twelfth day of the month of Rabiulawal, the third month of the Muslim calendar
+TRANSP:TRANSPARENT
+CATEGORIES:Holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-13MV846regcountry@mv-holidays
+DTSTAMP:20261107T193853Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:The Day Maldives Embraced Islam
+DESCRIPTION:According to legend, the Maldives was converted to Islam in the year 1153 AD
+TRANSP:TRANSPARENT
+CATEGORIES:Holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-03MV526regcountry@mv-holidays
+DTSTAMP:20261107T193853Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Victory Day
+DESCRIPTION:Celebrates the victory over the terrorist group who tried to overthrow the government in 1988
+TRANSP:TRANSPARENT
+CATEGORIES:Holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-11MV525regcountry@mv-holidays
+DTSTAMP:20261107T193853Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Republic Day
+DESCRIPTION:Celebrates the Maldives changing from a monarchy to a republic in 1968
+TRANSP:TRANSPARENT
+CATEGORIES:Holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-12-president-declared@mv-holidays
+DTSTAMP:20261107T194237Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:President Declared Holiday
+DESCRIPTION:President Declared Holiday
+TRANSP:TRANSPARENT
+CATEGORIES:Holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-01-01MV415regcountry@mv-holidays
+DTSTAMP:20261107T193853Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:New Year's Day
+DESCRIPTION:New Year's Day is a public holiday in all countries that observe the Gregorian calendar
+TRANSP:TRANSPARENT
+CATEGORIES:Holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-02-09MV701regcountry@mv-holidays
+DTSTAMP:20261107T193853Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:First of Ramazan
+DESCRIPTION:Ramadan is the ninth month of the Muslim calendar. It is during this month that Muslims fast
+TRANSP:TRANSPARENT
+CATEGORIES:Holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-03-09MV271regcountry@mv-holidays
+DTSTAMP:20261107T193853Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:Eid-ul Fithr
+DESCRIPTION:The festival of Eid al-Fitr, the Festival of Fast breaking, marks the end of Ramadan
+TRANSP:TRANSPARENT
+CATEGORIES:Holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-01MV475regcountry@mv-holidays
+DTSTAMP:20261107T193853Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Worker's Day
+DESCRIPTION:This holiday is most commonly associated as a commemoration of the achievements of the labour movement
+TRANSP:TRANSPARENT
+CATEGORIES:Holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-15MV27regcountry@mv-holidays
+DTSTAMP:20261107T193853Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Hajj Day
+DESCRIPTION:Second day of the Hajj pilgrimage and the day before Eid al Adha. Named after the geographical area Arafa where the Prophet gave his Farewell Sermon.
+TRANSP:TRANSPARENT
+CATEGORIES:Holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-05-16MV272regcountry@mv-holidays
+DTSTAMP:20261107T193853Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:Eid-ul Al'haa
+DESCRIPTION:Eid al-Adha, the Feast of Sacrifice is the most important feast in the Muslim calendar. It celebrates the willingness of the Prophet Ibrahim to sacrifice his son Ishmael in submission to Allah's command, before he was stopped by Allah.
+TRANSP:TRANSPARENT
+CATEGORIES:Holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-06-06MV420regcountry@mv-holidays
+DTSTAMP:20261107T193853Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:Islamic New Year
+DESCRIPTION:Marks Islamic New Year and the Prophet's journey from Mecca to Medina in 622AD.
+TRANSP:TRANSPARENT
+CATEGORIES:Holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-07-26MV524regcountry@mv-holidays
+DTSTAMP:20261107T193853Z
+DTSTART;VALUE=DATE:20270726
+DTEND;VALUE=DATE:20270727
+SUMMARY:Independence Day
+DESCRIPTION:The Maldives gained independence from the British on July 26th 1965, following 77 years as a British protectorate
+TRANSP:TRANSPARENT
+CATEGORIES:Holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-04MV696regcountry@mv-holidays
+DTSTAMP:20261107T193853Z
+DTSTART;VALUE=DATE:20270804
+DTEND;VALUE=DATE:20270805
+SUMMARY:Qaumee Dhuvas
+DESCRIPTION:Celebrates the victory of Muhammad Thakurufaanu Al Auzam over the Portuguese occupation in 1573
+TRANSP:TRANSPARENT
+CATEGORIES:Holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-08-15MV543regcountry@mv-holidays
+DTSTAMP:20261107T193853Z
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:Mawlid al-Nabi
+DESCRIPTION:Celebrated by Muslims on the twelfth day of the month of Rabiulawal, the third month of the Muslim calendar
+TRANSP:TRANSPARENT
+CATEGORIES:Holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-09-03MV846regcountry@mv-holidays
+DTSTAMP:20261107T193853Z
+DTSTART;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270904
+SUMMARY:The Day Maldives Embraced Islam
+DESCRIPTION:According to legend, the Maldives was converted to Islam in the year 1153 AD
+TRANSP:TRANSPARENT
+CATEGORIES:Holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-11-03MV526regcountry@mv-holidays
+DTSTAMP:20261107T193853Z
+DTSTART;VALUE=DATE:20271103
+DTEND;VALUE=DATE:20271104
+SUMMARY:Victory Day
+DESCRIPTION:Celebrates the victory over the terrorist group who tried to overthrow the government in 1988
+TRANSP:TRANSPARENT
+CATEGORIES:Holidays
+END:VEVENT
+BEGIN:VEVENT
+UID:2027-11-11MV525regcountry@mv-holidays
+DTSTAMP:20261107T193853Z
+DTSTART;VALUE=DATE:20271111
+DTEND;VALUE=DATE:20271112
+SUMMARY:Republic Day
+DESCRIPTION:Celebrates the Maldives changing from a monarchy to a republic in 1968
+TRANSP:TRANSPARENT
+CATEGORIES:Holidays
+END:VEVENT
+END:VCALENDAR
